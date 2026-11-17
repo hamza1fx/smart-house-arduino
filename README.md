@@ -4,7 +4,7 @@ Team project for **ENGG200 – Introduction to Engineering**, Lebanese Internati
 
 **My role:** Team leader of a 3-member team. I designed and simulated the second part of the house in Tinkercad and wrote part of the Arduino control code.
 
-![Circuit in Tinkercad](circuit.jpg)
+![Circuit in Tinkercad](circuit.png)
 
 ## Features
 - **Automatic lighting:** an LDR switches the house lights on when it gets dark.
